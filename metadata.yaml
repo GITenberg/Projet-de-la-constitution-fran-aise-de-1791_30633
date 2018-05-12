@@ -1,0 +1,33 @@
+_repo: Projet-de-la-constitution-fran-aise-de-1791_30633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robespierre, Maximilien
+    alias: Robespierre, Maximilien Marie Isidore de
+    birthdate: 1758
+    deathdate: 1794
+    gutenberg_agent_id: '34151'
+    url: http://www.gutenberg.org/2009/agents/34151
+    wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
+  editor:
+    agent_name: Tardif, Edmond
+    gutenberg_agent_id: '34720'
+    url: http://www.gutenberg.org/2009/agents/34720
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30633'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutional history -- France -- Sources'
+- !lcc 'KJ'
+title: Projet de la constitution française de 1791
+url: http://www.gutenberg.org/ebooks/30633
